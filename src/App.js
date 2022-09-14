@@ -3,6 +3,11 @@ import './App.scss';
 function App() {
   const projectsArray = [
     {
+      name: 'NFT landing page',
+      link: 'https://drifter0910-ntf-landing-page.netlify.app/',
+      img: 'https://user-images.githubusercontent.com/78606852/175220220-10d433dc-a6cc-4380-a827-0a9da1bbfe74.png',
+    },
+    {
       name: '29 Mini Projects',
       link: 'https://drifter0910-29projectsjs.netlify.app/',
       img: 'https://www.vanillajavascriptprojects.com/_next/image?url=https%3A%2F%2Fdl.airtable.com%2F.attachments%2Fa339b9249dc2cce4b4c1fb4738a7a23c%2F8cee7da4%2FScreen_Shot_2020-04-13_at_8.57.42_PM.png%3Fts%3D1658425599%26userId%3DusrQMwWEPx18KgLcP%26cs%3Df71dc75c7f19f0f6&w=3840&q=75',
